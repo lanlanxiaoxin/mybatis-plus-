@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="48d58fa5-d776-42c7-a695-1b3d989a3604" name="Default Changelist" comment="构建完成" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\mvnrep" />
+        <option name="mavenHome" value="D:/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+    <option name="vmOptions" value="-Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true -Dmaven.wagon.http.ssl.ignore.validity.dates=true" />
+  </component>
+  <component name="ProjectId" id="2AC26Esdm67DXFFoyBVZG2SoLFK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="D:/study/android/android_sdk/android-sdk-windows" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\creater-daimashengchengqi\mybatis-plus-creater\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Creater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Creater" />
+      <module name="mybatis-plus-creater" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Creater" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\宇宙无敌小哥哥\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48d58fa5-d776-42c7-a695-1b3d989a3604" name="Default Changelist" comment="" />
+      <created>1654499068225</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654499068225</updated>
+      <workItem from="1654499071953" duration="4921000" />
+      <workItem from="1654504043381" duration="172000" />
+      <workItem from="1654504219347" duration="13000" />
+      <workItem from="1654504234011" duration="101000" />
+      <workItem from="1654504337468" duration="663000" />
+    </task>
+    <task id="LOCAL-00001" summary="构建完成">
+      <created>1654504116773</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654504116773</updated>
+    </task>
+    <task id="LOCAL-00002" summary="构建完成">
+      <created>1654504371935</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1654504371935</updated>
+    </task>
+    <task id="LOCAL-00003" summary="构建完成">
+      <created>1654504505622</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1654504505622</updated>
+    </task>
+    <task id="LOCAL-00004" summary="构建完成">
+      <created>1654504706622</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1654504706622</updated>
+    </task>
+    <task id="LOCAL-00005" summary="构建完成">
+      <created>1654504966059</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1654504966059</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="构建完成" />
+    <option name="LAST_COMMIT_MESSAGE" value="构建完成" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="651" y="270" key="#Notifications" timestamp="1654504430607">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="651" y="270" key="#Notifications/0.0.1536.816@0.0.1536.816" timestamp="1654504430607" />
+    <state x="549" y="163" key="FileChooserDialogImpl" timestamp="1654504680407">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="549" y="163" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1654504680407" />
+    <state width="1493" height="215" key="GridCell.Tab.0.bottom" timestamp="1654504039740">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="215" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1654504039740" />
+    <state width="1493" height="215" key="GridCell.Tab.0.center" timestamp="1654504039740">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="215" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1654504039740" />
+    <state width="1493" height="215" key="GridCell.Tab.0.left" timestamp="1654504039740">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="215" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1654504039740" />
+    <state width="1493" height="215" key="GridCell.Tab.0.right" timestamp="1654504039740">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="215" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1654504039740" />
+    <state x="270" y="53" key="SettingsEditor" timestamp="1654505005046">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="270" y="53" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1654505005046" />
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2" timestamp="1654504970123">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1654504970123" />
+    <state x="563" y="321" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1654504909084">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="563" y="321" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.816@0.0.1536.816" timestamp="1654504909084" />
+    <state x="599" y="199" key="svn.repositoryBrowser" timestamp="1654504655781">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="599" y="199" key="svn.repositoryBrowser/0.0.1536.816@0.0.1536.816" timestamp="1654504655781" />
+    <state x="579" y="170" key="svn4idea.import.options" timestamp="1654504654588">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="579" y="170" key="svn4idea.import.options/0.0.1536.816@0.0.1536.816" timestamp="1654504654588" />
+  </component>
+</project>
